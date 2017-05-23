@@ -1,4 +1,4 @@
-package in.ukd.examples.lambdas;
+package lambdas;
 
 import org.junit.Test;
 
